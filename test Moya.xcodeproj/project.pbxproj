@@ -16,6 +16,7 @@
 		5671E73E2271ABD100D11596 /* APIStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5671E73D2271ABD100D11596 /* APIStructure.swift */; };
 		5671E7402271AFC400D11596 /* BaseService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5671E73F2271AFC400D11596 /* BaseService.swift */; };
 		5671E7422271B7DE00D11596 /* ResService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5671E7412271B7DE00D11596 /* ResService.swift */; };
+		5671E7442271C11000D11596 /* Account.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5671E7432271C11000D11596 /* Account.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		5671E73D2271ABD100D11596 /* APIStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIStructure.swift; sourceTree = "<group>"; };
 		5671E73F2271AFC400D11596 /* BaseService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseService.swift; sourceTree = "<group>"; };
 		5671E7412271B7DE00D11596 /* ResService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResService.swift; sourceTree = "<group>"; };
+		5671E7432271C11000D11596 /* Account.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Account.swift; sourceTree = "<group>"; };
 		B53BD535C662B57A86997BAC /* Pods-test Moya.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test Moya.debug.xcconfig"; path = "Target Support Files/Pods-test Moya/Pods-test Moya.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +74,7 @@
 				5671E73D2271ABD100D11596 /* APIStructure.swift */,
 				5671E73F2271AFC400D11596 /* BaseService.swift */,
 				5671E7412271B7DE00D11596 /* ResService.swift */,
+				5671E7432271C11000D11596 /* Account.swift */,
 				5671E72F2271AB3800D11596 /* Main.storyboard */,
 				5671E7322271AB3900D11596 /* Assets.xcassets */,
 				5671E7342271AB3900D11596 /* LaunchScreen.storyboard */,
@@ -228,6 +231,7 @@
 				5671E72E2271AB3800D11596 /* ViewController.swift in Sources */,
 				5671E72C2271AB3800D11596 /* AppDelegate.swift in Sources */,
 				5671E73E2271ABD100D11596 /* APIStructure.swift in Sources */,
+				5671E7442271C11000D11596 /* Account.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
